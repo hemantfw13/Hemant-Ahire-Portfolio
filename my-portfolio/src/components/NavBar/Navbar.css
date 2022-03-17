@@ -33,6 +33,7 @@ div .navbar-logoX {
   font-family: "Agustina";
   transform: rotate(-3deg);
   font-weight: 500;
+  width: 500px;
 }
 
 .fontX {
