@@ -25,16 +25,16 @@ const Contact = () => {
 
       <center>
         <p id="emailPhone">
-          <a href="tel:+918269795767">📞+91 8269795767</a>{" "}
-          <a href="mailto:shivam.2101s@gmail.com" target="_blank" id="email">
+          <a href="tel:+918308229465">📞+91 8308229465</a>{" "}
+          <a href="mailto:hemantahire002@gmail.com" target="_blank" id="email">
             {" "}
-            📧 shivam2101s.gmail.com
+            📧 Hemantahire002@.gmail.com
           </a>
         </p>
         <hr className="style-f" />
       </center>
       <p className="copyright">
-        👨‍💻 with ❤️ by <b id="footName">Shivam Sharma</b> using ⚛️
+        👨‍💻 with ❤️ by <b id="footName">Hemant Ahire</b> using ⚛️
       </p>
     </div>
   );

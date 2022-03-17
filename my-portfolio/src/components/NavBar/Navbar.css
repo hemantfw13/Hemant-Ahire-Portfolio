@@ -4,6 +4,12 @@
   font-weight: bold;
 }
 
+span.font0 {
+  font-family: "agustina-regular";
+  font-size: 30px;
+  text-transform: none;
+}
+
 .navbarX {
   background-image: var(--grad);
   height: 80px;
@@ -25,7 +31,7 @@ div .navbar-logoX {
   text-decoration: none;
   font-size: 2.5rem;
   font-family: "Agustina";
-  transform: rotate(-5deg);
+  transform: rotate(-3deg);
   font-weight: 500;
 }
 

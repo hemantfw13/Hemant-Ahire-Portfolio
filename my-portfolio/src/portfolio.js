@@ -9,23 +9,22 @@ export const globalStyles = {
 };
 
 // Navigation Bar Name
-export const navbar_name = "<Shivam>";
+export const navbar_name = "<HemantAhire>";
 
 // Main Page
 export const main = {
-  name: "Shivam Sharma",
+  name: "Hemant Ahire",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/drive/u/2/folders/1R2kiLFWUaKEFvDNgERqLfFC0H4Utj81B",
+    "https://drive.google.com/file/d/11N5Aa6IFPXNMYhMOfsRTTWP0-hkmQakB/view?usp=sharing",
 };
 
 // AboutMe
 export const aboutme = {
-  imgLink:
-    "https://github.com/Shivam2101s/images/blob/main/profile.png?raw=true",
-  p1: "Hey, My name is Shivam Sharma. I have completed my Bachelor of Engineering from Lakshmi Narain College of Technology, Indore(M.P.).",
-  p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
-  p3: "Apart from coding I also like photography 📸, cooking 👨‍🍳 and riding 🏍️.",
+  imgLink: "https://avatars.githubusercontent.com/u/97877643?v=4",
+  p1: "Hey, My name is Hemant Ahire. I have completed my Bachelor of Engineering from NDMVP's College of Engineering, Nashik(M.H.).",
+  p2: " Currently, I have expertise in C, C++, HTML, CSS, Bootstrap, JavaScript, React, Express, and MongoDB. I also have knowledge of SQL and Bit Manipulation. I would love to be a part of an innovative organization and use my programming skills to help bring creativity and innovation to the organization.",
+  p3: " Apart from programming, I enjoy playing sports ⚽, reading books 📚, photography 📸, listening to music 🎵 and riding 🏍️.",
 };
 
 // Skills
@@ -96,8 +95,8 @@ export const whatido = {
       id: "11",
     },
     {
-      name: "Tailwind",
-      iconifyClassName: "logos:tailwindcss-icon",
+      name: "Bootstrap",
+      iconifyClassName: "logos:bootstrap",
       id: "12",
     },
     {
@@ -106,8 +105,8 @@ export const whatido = {
       id: "13",
     },
     {
-      name: "Ant Design",
-      iconifyClassName: "logos:ant-design",
+      name: "MySQL",
+      iconifyClassName: "logos:mysql",
       id: "14",
     },
     {
@@ -127,87 +126,95 @@ export const whatido = {
 export const details = [
   {
     id: 1,
-    title: "Frontend Masters Clone",
-    desc: `Frontend Masters is an E-learning platform where users can advance their skills with in-depth, modern front-end engineering courses.`,
+    title: "Health-Kart-Clone",
+    desc: `HealthKart.com is India’s largest online health & fitness store for men and women. Shop online from the latest collections of health, fitness and similar products featuring the best brands.`,
     feature: `Sign-in/Sign-up,
-  Explore top courses and teachers,
-  Dynamic progress monitor page,
-  Subscription page.`,
+    Landing Page ,
+    Menu Section,
+    Product Page,
+    Cart Section,
+    Payment Page,
+    Order or Past-Purchase Section `,
     tech: `Tech Stack: EJS | CSS | JavaScript | nodeJS | express | MongoDB`,
-    img: "https://github.com/Shivam2101s/images/blob/main/frontend.jpg?raw=true",
-    github: "https://github.com/Shivam2101s/Frontend_Masters",
-    link: "https://frontend-masters.herokuapp.com/",
+    img: "https://miro.medium.com/max/700/0*ow1GkoN1xBNZsZ_y.png",
+    github: "https://github.com/hemantfw13/Health-Kart-Clone",
+    link: "https://healthkart-clone-project-only-front-end.netlify.app/",
   },
   {
     id: 2,
-    title: "MyFitnessPal Clone",
-    desc: `MyFitnessPal is a smartphone app and website that tracks users diet and exercise. Here users can explore various food items and their respective nutrition contents , exercise, and various fitness tracking apps.`,
-    feature: `Sign-in/Sign-up,
-  search bar for food items to see their nutrition contents, explore various fitness tracking apps,
+    title: "Max-Fashion-Clone",
+    desc: `Max-Fashion is a web application to buy products online Such as clothes, footwear, and accessories for the entire family - women, men, and children.
+    `,
+    feature: `Sign-in/Sign-up with OTP verification,
+    eProduct Preview Page,
+    Add to Basket and checkout pages,
+    Customization options,
+    Admin Page,
+    Payment gateway integration,
   Subscription page.`,
-    tech: `Tech Stack: React | CSS | JavaScript | nodeJS | express | MongoDB`,
-    img: "https://i.ibb.co/c1THySK/hero-image.jpg",
-    link: "https://github.com/AbhijitAher/MyFitnessPal_U5",
-    github: "https://github.com/AbhijitAher/MyFitnessPal_U5",
+    tech: `Tech Stack: HTML | CSS | JavaScript`,
+    img: "https://cdn-images-1.medium.com/max/800/1*SglnAWra6JJKKixTuZQnoA.png",
+    link: "https://github.com/hemantfw13/Max-Fashion-Clone",
+    github: "https://github.com/hemantfw13/Max-Fashion-Clone",
   },
 
   {
     id: 3,
-    title: "Reliance Retail Clone",
-    desc: `Reliance Retail is an informative website where users can get information about various brands of Reliance Industries.`,
+    title: "FAG-BAG Clone",
+    desc: `FAG-BAG is a web application to buy products online Such as beauty products from across the world`,
     feature: `Features:
-  Sign-in/Sign-up, User Authentication,
-  Integreted Hamleys shopping page,
-  Sorting, filtering and debouncing based search bar,
-  Carousel and slideshows,
-  Add to cart & Check out.`,
-    tech: `Tech Stack: HTML | CSS | JavaScript `,
-    img: "https://github.com/Shivam2101s/images/blob/main/reliance(1)%20-%20Copy.jpg?raw=true",
-    github: "https://github.com/Shivam2101s/Reliance-retails",
-    link: "https://relianceretailclone.netlify.app/",
+    Sign-in/Sign-up with OTP verification,
+    eProduct Preview Page,
+    Add to Basket and checkout pages,
+    Customization options,
+    Admin Page,`,
+    tech: `Tech Stack: HTML | CSS | JavaScript | NodeJS `,
+    img: "https://miro.medium.com/max/1400/1*TCrHSpurQKPGNE2HN6YRXA.png",
+    github: "https://github.com/hemantfw13/FAB-BAG-Project",
+    link: "https://github.com/hemantfw13/FAB-BAG-Project",
   },
-  {
-    id: 4,
-    title: "MakeMYHome",
-    desc: `A small React app to keep the details of the flats and their residents in a society.`,
-    feature: `User authentication using MongoDB,
-      Private Routing,
-      Filter and sorting.`,
-    tech: `Tech Stack: React | CSS | NodeJS | Exprees | MongoDB .`,
-    img: "https://github.com/Shivam2101s/images/blob/main/makeMyHouse1.jpg?raw=true",
-    github: "https://github.com/Shivam2101s/Apartment-Flat-Manager",
-    link: "https://apartment-flats-manager-shivam2101s.vercel.app",
-  },
-  {
-    id: 5,
-    title: "Eva Translate",
-    desc: `Eva Translate is a translating tool, users can translate text from one language to another and also hear its correct pronunciation.`,
-    feature: `Language translation,
-      Speech-to-text.`,
-    tech: `Tech Stack: HTML | CSS | JavaScript .`,
-    img: "https://github.com/Shivam2101s/images/blob/main/eva%20translate.jpg?raw=true",
-    link: "https://evatranslate.netlify.app/",
-    github: "https://github.com/Shivam2101s/Eva-Translate",
-  },
-  {
-    id: 6,
-    title: "My Recipe App",
-    desc: `It's a food recipe app, users can search recipes of various dishes and also see the latest recipes as well as the recipe of the day.`,
-    feature: `Search recipe,
-  Recipe of the day.`,
-    tech: `Tech Stack: HTML | CSS | JavaScript`,
-    img: "https://github.com/Shivam2101s/images/blob/main/food%20app.jpg?raw=true",
-    link: "https://myfoodapp21.netlify.app/",
-    github: "https://github.com/Shivam2101s/Food-app",
-  },
+  // {
+  //   id: 4,
+  //   title: "MakeMYHome",
+  //   desc: `A small React app to keep the details of the flats and their residents in a society.`,
+  //   feature: `User authentication using MongoDB,
+  //     Private Routing,
+  //     Filter and sorting.`,
+  //   tech: `Tech Stack: React | CSS | NodeJS | Exprees | MongoDB .`,
+  //   img: "https://github.com/Shivam2101s/images/blob/main/makeMyHouse1.jpg?raw=true",
+  //   github: "https://github.com/Shivam2101s/Apartment-Flat-Manager",
+  //   link: "https://apartment-flats-manager-shivam2101s.vercel.app",
+  // },
+  // {
+  //   id: 5,
+  //   title: "Eva Translate",
+  //   desc: `Eva Translate is a translating tool, users can translate text from one language to another and also hear its correct pronunciation.`,
+  //   feature: `Language translation,
+  //     Speech-to-text.`,
+  //   tech: `Tech Stack: HTML | CSS | JavaScript .`,
+  //   img: "https://github.com/Shivam2101s/images/blob/main/eva%20translate.jpg?raw=true",
+  //   link: "https://evatranslate.netlify.app/",
+  //   github: "https://github.com/Shivam2101s/Eva-Translate",
+  // },
+  // {
+  //   id: 6,
+  //   title: "My Recipe App",
+  //   desc: `It's a food recipe app, users can search recipes of various dishes and also see the latest recipes as well as the recipe of the day.`,
+  //   feature: `Search recipe,
+  // Recipe of the day.`,
+  //   tech: `Tech Stack: HTML | CSS | JavaScript`,
+  //   img: "https://github.com/Shivam2101s/images/blob/main/food%20app.jpg?raw=true",
+  //   link: "https://myfoodapp21.netlify.app/",
+  //   github: "https://github.com/Shivam2101s/Food-app",
+  // },
 ];
 
 // Social Media Links
 export const links = [
-  "https://www.instagram.com/s_sharma.ji/",
-  "https://www.linkedin.com/in/shivam2101s/",
-  "https://api.whatsapp.com/send/?phone=918269795767&text&app_absent=0",
-  "mailto:shivam.2101s@gmail.com",
-  "https://shivam2101s.medium.com/",
-  "https://github.com/Shivam2101s",
+  "https://www.instagram.com/hemantnavnathahire/",
+  "https://www.linkedin.com/in/hemant-ahire-71b33b19a/",
+  "https://api.whatsapp.com/send/?phone=918308229465&text&app_absent=0",
+  "mailto:Hemantahire002@gmail.com",
+  "https://medium.com/@hemantahire002",
+  "https://github.com/hemantfw13",
 ];
