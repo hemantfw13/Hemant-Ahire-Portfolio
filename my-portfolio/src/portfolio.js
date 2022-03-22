@@ -154,7 +154,7 @@ export const details = [
   Subscription page.`,
     tech: `Tech Stack: HTML | CSS | JavaScript`,
     img: "https://cdn-images-1.medium.com/max/800/1*SglnAWra6JJKKixTuZQnoA.png",
-    link: "https://github.com/hemantfw13/Max-Fashion-Clone",
+    link: "https://hemant-max-fashion-clone.netlify.app/",
     github: "https://github.com/hemantfw13/Max-Fashion-Clone",
   },
 
@@ -171,7 +171,7 @@ export const details = [
     tech: `Tech Stack: HTML | CSS | JavaScript | NodeJS `,
     img: "https://miro.medium.com/max/1400/1*TCrHSpurQKPGNE2HN6YRXA.png",
     github: "https://github.com/hemantfw13/FAB-BAG-Project",
-    link: "https://github.com/hemantfw13/FAB-BAG-Project",
+    link: "https://hemant-fabbag-clone.netlify.app/",
   },
   // {
   //   id: 4,

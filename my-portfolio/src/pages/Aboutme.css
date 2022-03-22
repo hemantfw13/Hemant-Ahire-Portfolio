@@ -1,6 +1,35 @@
 #aboutme {
-  background-image: var(--grad);
+  /* background-image: var(--grad); */
+  /* background-image: radial-gradient(rgb(124, 84, 39), rgb(240, 237, 61)); */
+  /* background-image: linear-gradient(rgb(98, 200, 129), rgb(97, 95, 0)); */
+
+  /* background-color: rgb(163, 143, 26); */
   /* clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%); */
+  /* 
+  background-image: linear-gradient(
+    to right top,
+    #bb91a8,
+    #d09299,
+    #d89884,
+    #d0a572,
+    #b9b56d,
+    #9db470,
+    #81b278,
+    #65af84,
+    #559b7f,
+    #4a8676,
+    #44726b,
+    #415e5c
+  ); */
+
+  background-image: linear-gradient(
+    to right top,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
 }
 
 .aboutme {
@@ -15,6 +44,7 @@ h1 {
   margin: 0 0 4.5rem;
   padding-top: 50px;
   text-transform: uppercase;
+
   color: var(--s_color);
   text-align: center;
 }
