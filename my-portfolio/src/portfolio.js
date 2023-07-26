@@ -27,6 +27,28 @@ export const aboutme = {
   p3: " Apart from programming, I enjoy playing sports ⚽, reading books 📚, photography 📸, listening to music 🎵 and riding 🏍️.",
 };
 
+// experinece
+
+export const experinece = {
+  logo: "https://media.licdn.com/dms/image/C4E0BAQHRY_0FM84rSA/company-logo_200_200/0/1597656325290?e=1698278400&v=beta&t=WB-rEhp1hPO1Q8iQQc8PWK9h5CUvspKFMJnln8e8nM0",
+  role: "Associate Software Engineer",
+  time:"September 2022 - July 2023",
+ p1: "Developed REST-APIs for server",
+ p2:"Refactored SQL queries for API",
+ p3:"Solved issues found during testing the application",
+ p4:"Resolved Bugs and Wrote reusable code.",
+ p5:"Developed multiple changes as per client expectations.",
+ p6:"Coordination with the team to resolve various client side issues",
+ p7:"Built the logic for a different API, Conversion rates",
+ p8:"Hands on Experience Node JS, SQL, PostgreSQL , DBeaver, AWS, Postman",
+ p9:"Worked on angular to develope pages",
+ p10:"Implemented functionality like Filter, Search , Pagination"
+
+
+};
+
+
+
 // Skills
 export const whatido = {
   title: "Full Stack Development",

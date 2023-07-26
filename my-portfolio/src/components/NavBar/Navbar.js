@@ -44,6 +44,17 @@ function Navbar() {
               About Me
             </Link>
           </li>
+
+          <li className="nav-itemX">
+            <Link
+              to="/"
+              className="nav-linksX"
+              onClick={() => closeMobileMenu("#experience")}
+            >
+              Experience
+            </Link>
+          </li>
+
           <li className="nav-itemX">
             <Link
               to="/"
