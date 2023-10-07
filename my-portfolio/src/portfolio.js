@@ -16,7 +16,7 @@ export const main = {
   name: "Hemant Ahire",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/11N5Aa6IFPXNMYhMOfsRTTWP0-hkmQakB/view?usp=sharing",
+    "https://drive.google.com/file/d/1Lep1gZAw0keEwgS7YZtbD7bjOWG4Kw8-/view?usp=sharing",
 };
 
 // AboutMe
